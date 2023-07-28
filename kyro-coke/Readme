@@ -1,0 +1,26 @@
+  _  ____   ______   ___  
+ | |/ /\ \ / /  _ \ / _ \ 
+ | ' /  \ V /| |_) | | | |
+ | . \   | | |  _ <| |_| |
+ |_|\_\  |_| |_| \_\\___/ 
+
+
+Qbcore cocaine script
+
+
+Key Features:
+
+Cocaine Production: Players can harvestplants to initiate the production of raw cocaine.
+
+Cocaine Processing: The collected resources are processed through a custom progress system, allowing players to convert raw materials into refined cocaine.
+
+Cocaine packaging: The Cocaine can be packaged in both bags or bricks.
+
+Creates useable item "coke_brick" which when used gives you set amount of cocaine, Default is 100.
+
+
+Skill-Based Mechanism: The script incorporates  skill checks, where players' proficiency in "Drug Manufacture" influences the quantity  of cocaine produced.
+
+This script used MZ-Skills
+
+
